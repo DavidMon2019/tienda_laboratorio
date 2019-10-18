@@ -1,1 +1,1 @@
-# Modelo relacional y logico (Tienda de Pituras  y Laboratorio de Pinturas)
+# Archivos DDL y JPG (Tienda de Pituras  y Laboratorio de Pinturas)
